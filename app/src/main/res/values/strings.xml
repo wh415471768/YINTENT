@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YINTENT</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">登陆</string>
+    <string-array name="my_list_data">
+        <item>我的联系人</item>
+        <item>我的账户</item>
+        <item>我的密码</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="network_check">当前网络不可用</string>
+</resources>
