@@ -45,6 +45,8 @@ public class LoginActivity extends AppCompatActivity {
     TextView tvLostPassword;
     EditText editUser=null;
     EditText editPassword=null;
+
+
     CheckBox ckLogin=null;
     ProgressDialog pDialog=null;
     Handler handler=new Handler(){
