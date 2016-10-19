@@ -46,7 +46,6 @@ public class LoginActivity extends AppCompatActivity {
     EditText editUser=null;
     EditText editPassword=null;
 
-
     CheckBox ckLogin=null;
     ProgressDialog pDialog=null;
     Handler handler=new Handler(){
